@@ -70,7 +70,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 **Note:** This project is for
 
 <img width="1899" height="969" alt="image" src="https://github.com/user-attachments/assets/59443e82-e49d-4842-91e2-ced38e243cc2" />
-<img width="182" height="952" alt="image" src="https://github.com/user-attachments/assets/f3f68542-a616-434f-9550-3e6e5e94baf6" />
 <img width="1510" height="922" alt="image" src="https://github.com/user-attachments/assets/1fd31ae2-f198-4a98-898c-6b24063f4987" />
 <img width="1902" height="970" alt="image" src="https://github.com/user-attachments/assets/e2ac259b-154b-449e-8736-1df13deb2273" />
 <img width="1905" height="974" alt="image" src="https://github.com/user-attachments/assets/0bed6656-b1df-42ee-98c0-a9444572a2b4" />
